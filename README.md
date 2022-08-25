@@ -1,2 +1,3 @@
 # story3
-Exceptional Story Writing
+ This is not real story.It is only purpose of experiment and learning.
+ Thank you.
